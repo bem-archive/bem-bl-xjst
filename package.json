@@ -1,6 +1,6 @@
 {
   "name": "bem-bl-xjst",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "xjst compiler for bem-bl",
   "main": "lib/bemhtml.js",
   "dependencies": {
@@ -20,4 +20,3 @@
     "bench": "./benchmarks/run"
   }
 }
-
