@@ -4,7 +4,7 @@
   "description": "xjst compiler for bem-bl",
   "main": "lib/bemhtml.js",
   "dependencies": {
-    "xjst": "~0.5.28",
+    "xjst": "~0.10.0",
     "ometajs": "~3.3.5",
     "estraverse": "~1.5.0",
     "esprima": "~1.0.4",
