@@ -15,5 +15,8 @@
   "scripts": {
     "test": "mocha --ui tdd --growl --reporter spec test/*-test.js",
     "bench": "./benchmarks/run"
+  },
+  "publishConfig": {
+    "tag": "1x"
   }
 }
